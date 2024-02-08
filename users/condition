@@ -1,0 +1,10 @@
+#!bin/bash
+
+
+a=65
+b=99
+
+if [[$a -gt 60 -a $b -lt 100]];
+then
+	echo $a, $b	
+fi 

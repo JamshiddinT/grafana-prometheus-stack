@@ -1,0 +1,2 @@
+this is some text and content for writing to the file.
+add some mpore dta to the output.txt;).

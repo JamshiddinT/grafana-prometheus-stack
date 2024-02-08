@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+echo "add some mpore dta to the output.txt;)." >> output.txt
